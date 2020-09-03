@@ -1,0 +1,833 @@
+
+@media only screen and (min-width: 0px) {
+ 
+
+
+  #leftSlideDiv01 {
+    color: #FFFFFF;
+    display: block;
+    margin: 0px 0;
+    height:220px;
+    width:340px;
+    background-image: url('./assets/img/GoldDigger.jpeg');
+    background-size:100% 100%;
+    position: relative; 
+  }
+
+  #leftSlideDiv02 {
+    color: #FFFFFF;
+    display: block;
+    margin: 0px 0;
+    height:220px;
+    width:340px;
+    background-image: url('./assets/img/Liar.jpeg');
+    background-size:100% 100%;
+    position: relative; 
+  }
+
+  #leftSlideDiv03 {
+    color: #FFFFFF;
+    display: block;
+    margin: 0px 0;
+    height:220px;
+    width:340px;
+    background-image: url('./assets/img/LittleWomenLA.jpeg');
+    background-size:100% 100%;
+    position: relative; 
+  }
+
+  #leftSlideDiv04 {
+    color: #FFFFFF;
+    display: block;
+    margin: 0px 0;
+    height:220px;
+    width:340px;
+    background-image: url('./assets/img/MKR.jpeg');
+    background-size:100% 100%;
+    position: relative; 
+  }
+
+  #leftSlideDiv05 {
+    color: #FFFFFF;
+    display: block;
+    margin: 0px 0;
+    height:220px;
+    width:340px;
+    background-image: url('./assets/img/PoochPerfect.jpeg');
+    background-size:100% 100%;
+    position: relative; 
+  }
+
+  #leftSlideDiv06 {
+    color: #FFFFFF;
+    display: block;
+    margin: 0px 0;
+    height:220px;
+    width:340px;
+    background-image: url('./assets/img/Revolution.jpeg');
+    background-size:100% 100%;
+    position: relative; 
+  }
+
+  #leftSlideDiv07 {
+    color: #FFFFFF;
+    display: block;
+    margin: 0px 0;
+    height:220px;
+    width:340px;
+    background-image: url('./assets/img/Smallville.jpeg');
+    background-size:100% 100%;
+    position: relative; 
+  }
+
+  #leftSlideDiv08 {
+    color: #FFFFFF;
+    display: block;
+    margin: 0px 0;
+    height:220px;
+    width:340px;
+    background-image: url('./assets/img/TheGoodDoctor.jpeg');
+    background-size:100% 100%;
+    position: relative; 
+  }
+
+  #leftSlideDiv09 {
+    color: #FFFFFF;
+    display: block;
+    margin: 0px 0;
+    height:220px;
+    width:340px;
+    background-image: url('./assets/img/TheResident.jpeg');
+    background-size:100% 100%;
+    position: relative; 
+  }
+
+  #leftSlideDiv10 {
+    color: #FFFFFF;
+    display: block;
+    margin: 0px 0;
+    height:220px;
+    width:340px;
+    background-image: url('./assets/img/Transformed.jpeg');
+    background-size:100% 100%;
+    position: relative; 
+  }
+
+
+  #div01 {
+    color: #FFFFFF;
+    display: block;
+    margin: 20px 0;
+    height:440px;
+    width:100%;
+    background-image: url('./assets/img/GoldDigger.jpeg');
+    background-size:100% 100%;
+    position: relative; 
+  }
+
+  .divBottom {
+    height:130px;
+    width:100%;
+    background-color:rgba(5, 5, 5, 0.5);
+    position: absolute;
+    bottom: 0px;
+    display: table;
+  }
+
+  .tabIcon{
+    width: 100px;
+    display: table-cell;
+    vertical-align: middle;
+    padding-left: 20px;
+    /* background-color:rgba(50, 50, 50, 1); */
+  }
+
+  .tabTitle{
+    display: table-cell;
+    vertical-align: middle;
+    padding-left: 10px;
+    font-size: 40px;
+    font-weight: bold;
+    /* background-color:rgba(150, 150, 150, 1); */
+  }
+ 
+
+  #div02 {
+    color: #FFFFFF;
+    display: block;
+    margin: 20px 0;
+    height:440px;
+    width:100%;
+    background-image: url('./assets/img/Liar.jpeg');
+    background-size:100% 100%;
+    position: relative; 
+  }
+
+  #div03 {
+    color: #FFFFFF;
+    display: block;
+    margin: 20px 0;
+    height:440px;
+    width:100%;
+    background-image: url('./assets/img/LittleWomenLA.jpeg');
+    background-size:100% 100%;
+    position: relative; 
+  }
+
+  #div04 {
+    color: #FFFFFF;
+    display: block;
+    margin: 20px 0;
+    height:440px;
+    width:100%;
+    background-image: url('./assets/img/MKR.jpeg');
+    background-size:100% 100%;
+    position: relative; 
+  }
+
+  #div05 {
+    color: #FFFFFF;
+    display: block;
+    margin: 20px 0;
+    height:440px;
+    width:100%;
+    background-image: url('./assets/img/PoochPerfect.jpeg');
+    background-size:100% 100%;
+    position: relative; 
+  }
+
+  #div06 {
+    color: #FFFFFF;
+    display: block;
+    margin: 20px 0;
+    height:440px;
+    width:100%;
+    background-image: url('./assets/img/Revolution.jpeg');
+    background-size:100% 100%;
+    position: relative; 
+  }
+
+  #div07 {
+    color: #FFFFFF;
+    display: block;
+    margin: 20px 0;
+    height:440px;
+    width:100%;
+    background-image: url('./assets/img/Smallville.jpeg');
+    background-size:100% 100%;
+    position: relative; 
+  }
+
+  #div08 {
+    color: #FFFFFF;
+    display: block;
+    margin: 20px 0;
+    height:440px;
+    width:100%;
+    background-image: url('./assets/img/TheGoodDoctor.jpeg');
+    background-size:100% 100%;
+    position: relative; 
+  }
+
+
+  #div09 {
+    color: #FFFFFF;
+    display: block;
+    margin: 20px 0;
+    height:440px;
+    width:100%;
+    background-image: url('./assets/img/TheResident.jpeg');
+    background-size:100% 100%;
+    position: relative; 
+  }
+
+  #div10 {
+    color: #FFFFFF;
+    display: block;
+    margin: 20px 0;
+    height:440px;
+    width:100%;
+    background-image: url('./assets/img/Transformed.jpeg');
+    background-size:100% 100%;
+    position: relative; 
+  }
+
+}
+ 
+
+@media only screen and (min-width: 1024px) {
+
+
+
+  #leftSlideDiv01 {
+    color: #FFFFFF;
+    display: block;
+    margin: 0px 0;
+    height:220px;
+    width:340px;
+    background-image: url('./assets/img/GoldDigger.jpeg');
+    background-size:100% 100%;
+    position: relative; 
+  }
+
+  #leftSlideDiv02 {
+    color: #FFFFFF;
+    display: block;
+    margin: 0px 0;
+    height:220px;
+    width:340px;
+    background-image: url('./assets/img/Liar.jpeg');
+    background-size:100% 100%;
+    position: relative; 
+  }
+
+  #leftSlideDiv03 {
+    color: #FFFFFF;
+    display: block;
+    margin: 0px 0;
+    height:220px;
+    width:340px;
+    background-image: url('./assets/img/LittleWomenLA.jpeg');
+    background-size:100% 100%;
+    position: relative; 
+  }
+
+  #leftSlideDiv04 {
+    color: #FFFFFF;
+    display: block;
+    margin: 0px 0;
+    height:220px;
+    width:340px;
+    background-image: url('./assets/img/MKR.jpeg');
+    background-size:100% 100%;
+    position: relative; 
+  }
+
+  #leftSlideDiv05 {
+    color: #FFFFFF;
+    display: block;
+    margin: 0px 0;
+    height:220px;
+    width:340px;
+    background-image: url('./assets/img/PoochPerfect.jpeg');
+    background-size:100% 100%;
+    position: relative; 
+  }
+
+  #leftSlideDiv06 {
+    color: #FFFFFF;
+    display: block;
+    margin: 0px 0;
+    height:220px;
+    width:340px;
+    background-image: url('./assets/img/Revolution.jpeg');
+    background-size:100% 100%;
+    position: relative; 
+  }
+
+  #leftSlideDiv07 {
+    color: #FFFFFF;
+    display: block;
+    margin: 0px 0;
+    height:220px;
+    width:340px;
+    background-image: url('./assets/img/Smallville.jpeg');
+    background-size:100% 100%;
+    position: relative; 
+  }
+
+  #leftSlideDiv08 {
+    color: #FFFFFF;
+    display: block;
+    margin: 0px 0;
+    height:220px;
+    width:340px;
+    background-image: url('./assets/img/TheGoodDoctor.jpeg');
+    background-size:100% 100%;
+    position: relative; 
+  }
+
+  #leftSlideDiv09 {
+    color: #FFFFFF;
+    display: block;
+    margin: 0px 0;
+    height:220px;
+    width:340px;
+    background-image: url('./assets/img/TheResident.jpeg');
+    background-size:100% 100%;
+    position: relative; 
+  }
+
+  #leftSlideDiv10 {
+    color: #FFFFFF;
+    display: block;
+    margin: 0px 0;
+    height:220px;
+    width:340px;
+    background-image: url('./assets/img/Transformed.jpeg');
+    background-size:100% 100%;
+    position: relative; 
+  }
+
+
+  .block_container {
+    background-color:#000000;
+
+    height:1560px;width:100%;position: absolute; top: 0; bottom: 0; left: 0; right: 0;
+  }
+
+  #div01 {
+    color: #FFFFFF;
+    display: inline-block;
+    margin: 20px;
+    height:280px;
+    width:480px;
+    background-image: url('./assets/img/GoldDigger.jpeg');
+    background-size:100% 100%;
+    position: relative; 
+  }
+
+   
+
+  #div02 {
+    color: #FFFFFF;
+    display: inline-block;
+    margin: 20px;
+    height:280px;
+    width:480px;
+    background-image: url('./assets/img/Liar.jpeg');
+    background-size:100% 100%;
+    position: absolute;  
+    right: 0;  
+    top: 0;
+  }
+
+
+
+  #div03 {
+    color: #FFFFFF;
+    display: block;
+    margin: 20px;
+    height:280px;
+    width:480px;
+    background-image: url('./assets/img/LittleWomenLA.jpeg');
+    background-size:100% 100%;
+    position: relative; 
+  }
+
+  #div04 {
+    color: #FFFFFF;
+    display: inline-block;
+    margin: 20px;
+    height:280px;
+    width:480px;
+    background-image: url('./assets/img/MKR.jpeg');
+    background-size:100% 100%;
+    position: absolute;  
+    right: 0;  
+    top: 320px;
+  }
+
+  #div05 {
+    color: #FFFFFF;
+    display: block;
+    margin: 20px;
+    height:280px;
+    width:480px;
+    background-image: url('./assets/img/PoochPerfect.jpeg');
+    background-size:100% 100%;
+    position: relative; 
+  }
+
+  #div06 {
+    color: #FFFFFF;
+    display: inline-block;
+    margin: 20px;
+    height:280px;
+    width:480px;
+    background-image: url('./assets/img/Revolution.jpeg');
+    background-size:100% 100%;
+    position: absolute;  
+    right: 0;  
+    top: 620px;
+  }
+
+  #div07 {
+    color: #FFFFFF;
+    display: block;
+    margin: 20px;
+    height:280px;
+    width:480px;
+    background-image: url('./assets/img/Smallville.jpeg');
+    background-size:100% 100%;
+    position: relative; 
+  }
+
+  #div08 {
+    color: #FFFFFF;
+    display: inline-block;
+    margin: 20px;
+    height:280px;
+    width:480px;
+    background-image: url('./assets/img/TheGoodDoctor.jpeg');
+    background-size:100% 100%;
+    position: absolute;  
+    right: 0;  
+    top: 920px;
+  }
+
+
+  #div09 {
+    color: #FFFFFF;
+    display: block;
+    margin: 20px;
+    height:280px;
+    width:480px;
+    background-image: url('./assets/img/TheResident.jpeg');
+    background-size:100% 100%;
+    position: relative; 
+  }
+
+  #div10 {
+    color: #FFFFFF;
+    display: block;
+    margin: 20px;
+    height:280px;
+    width:480px;
+    background-image: url('./assets/img/Transformed.jpeg');
+    background-size:100% 100%;
+    position: absolute;  
+    right: 0;  
+    top: 1220px;
+  }
+
+
+
+
+
+  .divBottom {
+    height:130px;
+    width:100%;
+    background-color:rgba(5, 5, 5, 0.5);
+    position: absolute;
+    bottom: 0px;
+    display: table;
+  }
+
+  .tabIcon{
+    width: 100px;
+    display: table-cell;
+    vertical-align: middle;
+    padding-left: 20px;
+    /* background-color:rgba(50, 50, 50, 1); */
+  }
+
+  .tabTitle{
+    display: table-cell;
+    vertical-align: middle;
+    padding-left: 10px;
+    font-size: 40px;
+    font-weight: bold;
+    /* background-color:rgba(150, 150, 150, 1); */
+  }
+
+
+}
+
+
+
+
+@media only screen and (min-width: 1440px) {
+
+
+
+  #leftSlideDiv01 {
+    color: #FFFFFF;
+    display: block;
+    margin: 0px 0;
+    height:220px;
+    width:340px;
+    background-image: url('./assets/img/GoldDigger.jpeg');
+    background-size:100% 100%;
+    position: relative; 
+  }
+
+  #leftSlideDiv02 {
+    color: #FFFFFF;
+    display: block;
+    margin: 0px 0;
+    height:220px;
+    width:340px;
+    background-image: url('./assets/img/Liar.jpeg');
+    background-size:100% 100%;
+    position: relative; 
+  }
+
+  #leftSlideDiv03 {
+    color: #FFFFFF;
+    display: block;
+    margin: 0px 0;
+    height:220px;
+    width:340px;
+    background-image: url('./assets/img/LittleWomenLA.jpeg');
+    background-size:100% 100%;
+    position: relative; 
+  }
+
+  #leftSlideDiv04 {
+    color: #FFFFFF;
+    display: block;
+    margin: 0px 0;
+    height:220px;
+    width:340px;
+    background-image: url('./assets/img/MKR.jpeg');
+    background-size:100% 100%;
+    position: relative; 
+  }
+
+  #leftSlideDiv05 {
+    color: #FFFFFF;
+    display: block;
+    margin: 0px 0;
+    height:220px;
+    width:340px;
+    background-image: url('./assets/img/PoochPerfect.jpeg');
+    background-size:100% 100%;
+    position: relative; 
+  }
+
+  #leftSlideDiv06 {
+    color: #FFFFFF;
+    display: block;
+    margin: 0px 0;
+    height:220px;
+    width:340px;
+    background-image: url('./assets/img/Revolution.jpeg');
+    background-size:100% 100%;
+    position: relative; 
+  }
+
+  #leftSlideDiv07 {
+    color: #FFFFFF;
+    display: block;
+    margin: 0px 0;
+    height:220px;
+    width:340px;
+    background-image: url('./assets/img/Smallville.jpeg');
+    background-size:100% 100%;
+    position: relative; 
+  }
+
+  #leftSlideDiv08 {
+    color: #FFFFFF;
+    display: block;
+    margin: 0px 0;
+    height:220px;
+    width:340px;
+    background-image: url('./assets/img/TheGoodDoctor.jpeg');
+    background-size:100% 100%;
+    position: relative; 
+  }
+
+  #leftSlideDiv09 {
+    color: #FFFFFF;
+    display: block;
+    margin: 0px 0;
+    height:220px;
+    width:340px;
+    background-image: url('./assets/img/TheResident.jpeg');
+    background-size:100% 100%;
+    position: relative; 
+  }
+
+  #leftSlideDiv10 {
+    color: #FFFFFF;
+    display: block;
+    margin: 0px 0;
+    height:220px;
+    width:340px;
+    background-image: url('./assets/img/Transformed.jpeg');
+    background-size:100% 100%;
+    position: relative; 
+  }
+
+
+  .block_container {
+    background-color:#000000;
+
+    height:1200px;width:100%;position: absolute; top: 0; bottom: 0; left: 0; right: 0;
+  }
+
+  #div01 {
+    color: #FFFFFF;
+    display: inline-block;
+    margin: 20px;
+    height:262px;
+    width:450px;
+    background-image: url('./assets/img/GoldDigger.jpeg');
+    background-size:100% 100%;
+    position: relative; 
+  }
+
+   
+
+  #div02 {
+    color: #FFFFFF;
+    display: inline-block;
+ 
+    height:262px;
+    width:450px;
+    background-image: url('./assets/img/Liar.jpeg');
+    background-size:100% 100%;
+    position: relative; 
+
+    margin-left:-720px;  
+    left:50%;
+  }
+
+
+
+  #div03 {
+    color: #FFFFFF;
+    display: block;
+    margin: 20px;
+    height:262px;
+    width:450px;
+    background-image: url('./assets/img/LittleWomenLA.jpeg');
+    background-size:100% 100%;
+
+    position: absolute;  
+    right: 0;  
+    top: 0;
+  }
+ 
+  #div04 {
+    color: #FFFFFF;
+    display: inline-block;
+    margin: 20px;
+    height:262px;
+    width:450px;
+    background-image: url('./assets/img/MKR.jpeg');
+    background-size:100% 100%;
+    position: absolute;  
+    left: 0;  
+    top: 300px;
+  }
+
+  #div05 {
+    color: #FFFFFF;
+    display: inline-block;
+    margin: 20px;
+    height:262px;
+    width:450px;
+    background-image: url('./assets/img/PoochPerfect.jpeg');
+    background-size:100% 100%;
+    position: relative;  
+    margin-left:-470px;  
+    left:50%;
+    top: 300px;
+  }
+
+  #div06 {
+    color: #FFFFFF;
+    display: inline-block;
+    margin: 20px;
+    height:262px;
+    width:450px;
+    background-image: url('./assets/img/Revolution.jpeg');
+    background-size:100% 100%;
+    position: absolute;  
+    right: 0;  
+    top: 300px;
+  }
+
+
+
+
+
+  #div07 {
+    color: #FFFFFF;
+    display: inline-block;
+    margin: 20px;
+    height:262px;
+    width:450px;
+    background-image: url('./assets/img/Smallville.jpeg');
+    background-size:100% 100%;
+    position: absolute;  
+    left: 0;  
+    top: 600px;
+  }
+
+  #div08 {
+    color: #FFFFFF;
+    display: inline-block;
+    margin: 20px;
+    height:262px;
+    width:450px;
+    background-image: url('./assets/img/TheGoodDoctor.jpeg');
+    background-size:100% 100%;
+    position: relative;  
+    margin-left:-470px;  
+    left:50%;
+    top: 600px;
+  }
+
+
+  #div09 {
+    color: #FFFFFF;
+    display: inline-block;
+    margin: 20px;
+    height:262px;
+    width:450px;
+    background-image: url('./assets/img/TheResident.jpeg');
+    background-size:100% 100%;
+    position: absolute;  
+    right: 0;  
+    top: 600px;
+  }
+
+  #div10 {
+    color: #FFFFFF;
+    display: inline-block;
+    margin: 20px;
+    height:262px;
+    width:450px;
+    background-image: url('./assets/img/Transformed.jpeg');
+    background-size:100% 100%;
+    position: absolute;  
+    left: 0;  
+    top: 900px;
+  }
+
+
+
+
+
+  .divBottom {
+    height:130px;
+    width:100%;
+    background-color:rgba(5, 5, 5, 0.5);
+    position: absolute;
+    bottom: 0px;
+    display: table;
+  }
+
+  .tabIcon{
+    width: 100px;
+    display: table-cell;
+    vertical-align: middle;
+    padding-left: 20px;
+    /* background-color:rgba(50, 50, 50, 1); */
+  }
+
+  .tabTitle{
+    display: table-cell;
+    vertical-align: middle;
+    padding-left: 10px;
+    font-size: 40px;
+    font-weight: bold;
+    /* background-color:rgba(150, 150, 150, 1); */
+  }
+
+
+}
